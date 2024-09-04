@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amemo\\source\\repos\\Hello Principles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{697CC355-3AB8-4397-8476-555967A4CB80}|Hello Principles\\Hello Principles.csproj|c:\\users\\amemo\\source\\repos\\hello principles\\hello principles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{697CC355-3AB8-4397-8476-555967A4CB80}|Hello Principles\\Hello Principles.csproj|solutionrelative:hello principles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\amemo\\source\\repos\\Hello Principles\\Hello Principles\\Program.cs",
+              "RelativeDocumentMoniker": "Hello Principles\\Program.cs",
+              "ToolTip": "C:\\Users\\amemo\\source\\repos\\Hello Principles\\Hello Principles\\Program.cs",
+              "RelativeToolTip": "Hello Principles\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:11:22.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
